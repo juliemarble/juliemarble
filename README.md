@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm hwirang and i'm currently majoring in AI.
 
 <!--
 **juliemarble/juliemarble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
